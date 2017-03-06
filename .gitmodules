@@ -1,3 +1,6 @@
 [submodule "mobile/mobsf"]
 	path = mobile/mobsf
 	url = https://github.com/MobSF/Mobile-Security-Framework-MobSF
+[submodule "pentest/metasploit-framework"]
+  path = pentest/metasploit-framework
+  url = https://github.com/rapid7/metasploit-framework.git
