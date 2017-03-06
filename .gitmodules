@@ -1,0 +1,3 @@
+[submodule "mobile/mobsf"]
+	path = mobile/mobsf
+	url = https://github.com/MobSF/Mobile-Security-Framework-MobSF

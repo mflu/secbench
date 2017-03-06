@@ -1,0 +1,4 @@
+sudo add-apt-repository ppa:mrazavi/openvas
+sudo apt-get update
+sudo apt-get install -y openvas
+more to read: https://launchpad.net/~mrazavi/+archive/ubuntu/openvas
