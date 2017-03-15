@@ -1,0 +1,5 @@
+yaf: https://tools.netsa.cert.org/index.html
+  - install libfixbuf first
+  - ./configure --enable-plugins --enable-applabel
+
+prads: http://github.com/gamelinux/prads/zipball/master

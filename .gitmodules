@@ -4,3 +4,6 @@
 [submodule "pentest/metasploit-framework"]
   path = pentest/metasploit-framework
   url = https://github.com/rapid7/metasploit-framework.git
+[submodule "scan/xunfeng"]
+	path = scan/xunfeng
+	url = https://github.com/ysrc/xunfeng.git
