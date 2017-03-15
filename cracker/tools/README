@@ -1,3 +1,6 @@
 https://github.com/galkan/crowbar
   - Crowbar is brute forcing tool that can be used during penetration tests
 
+http://ophcrack.sourceforge.net/
+  - Ophcrack is a free Windows password cracker based on rainbow tables
+  - http://www.ha97.com/code/tables.rar 120GB rainbow table
